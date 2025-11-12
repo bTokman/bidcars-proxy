@@ -11,7 +11,8 @@ export default async function handler(req, res) {
             'mercury.bid.cars',
             'www.mercury.bid.cars',
             'images.bid.cars',
-            'cdn.bid.cars'
+            'cdn.bid.cars',
+            'cs.copart.com'
         ];
 
         let parsed;
